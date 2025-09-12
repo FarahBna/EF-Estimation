@@ -14,7 +14,7 @@ Traditional EF estimation often relies on subjective judgment. This project prop
 - Use of **exploit prediction metrics** such as:
   - **EPSS** (Exploit Prediction Scoring System)
   - **KEV** (Known Exploited Vulnerabilities)
-  - **LEV** (Likelihood of Exploitation Value)
+  - **LEV** (Likely Exploited Vulnerabilities)
 - Assessment of security impact based on the **CIA triad** (Confidentiality, Integrity, Availability).
 - Automated calculation of EF values.
 
